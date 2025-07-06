@@ -104,4 +104,4 @@ Please open issues and submit pull requests for new features, bug fixes, or sugg
 
 ---
 
-> Made by [@UsamahThani](https://github.com/UsamahThani)
+> Made by [@Usamah](https://github.com/UsamahThani)
